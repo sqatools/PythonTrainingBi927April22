@@ -1,0 +1,3 @@
+{"course_id": "course_1", "course_name": "Python", "course_fee": "2000", "course_duration": "2 MOnths", "course_seats": "20", "total_registration": "", "course_instructor": "andre76", "review_rating": 1}
+{"course_id": "course_2", "course_name": "Java", "course_fee": "3000", "course_duration": "3 MOnths", "course_seats": "30", "total_registration": "", "course_instructor": "elizabethmiller", "review_rating": 1}
+{"course_id": "course_3", "course_name": "HTML", "course_fee": "4000", "course_duration": "2Months", "course_seats": "40", "total_registration": "", "course_instructor": "kimberly08", "review_rating": 1}

@@ -1,0 +1,9 @@
+Its nice day,  happy learning to alle can
+locate child nodes of web elements with
+Selenium webdriver. First of all we need
+to identify the parent element with help
+of any of the locators like id
+ this data will be appeded to the end of the file
+this data will be appeded to the end of the file
+this data will be appeded to the end of the file
+this data will be appeded to the end of the file

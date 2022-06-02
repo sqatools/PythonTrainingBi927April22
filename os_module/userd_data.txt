@@ -1,0 +1,4 @@
+{"username": "pratik", "email": "pratik@gmail.com", "job": "Developer"}
+{"username": "Soubham", "email": "Soubham@gmail.com", "job": "Python Developer"}
+{"username": "Altaf", "email": "Altaf@gmail.com", "job": "Analyst"}
+{"username": "Ram", "email": "ram@gmail.com", "job": "Java Developer"}

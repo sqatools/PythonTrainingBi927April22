@@ -1,0 +1,97 @@
+1. Create Account on Github website:
+   https://github.com/
+
+2. Create Repository on github server
+
+3. Download git exe on windows machine and install it, once intallation is done
+   when we do right click in any folder then 'git bash' and 'git ui' option 
+   will be visible.
+   https://github.com/git-for-windows/git/releases/download/v2.36.1.windows.1/Git-2.36.1-64-bit.exe
+
+4.  Create any dedicated folder on your machine and open that folder -> right click
+    and open git bash commandline prompt.
+
+5. Now we will clone repository that we have created on github server.
+   using given command -> we have to copy reporty path from the server
+  
+   git clone <repository path>
+
+   git clone  https://github.com/sqatools/PythonTrainingBi927April22.git
+
+   -> during clone credential pop up will appear their you have to provide username
+      password.
+
+6. Create a new file in repository folder
+
+7. Check the status of newly created file with given command
+   -> git status # it will show in red color in untrack section.
+
+8. add new file with given command.
+   -> git add <filename>  # it will add specific file
+   -> git add .           # it will add all untrack files
+
+9. Now check the status again , new add files will show in green color.
+   -> git status.
+
+10. Initial commit with given command
+   -> git commit -m "commit msg"
+
+11. Once commit is done , we have to push file to the server with given
+    command.
+
+   -> git push # it will push file from local machine to git hub server.
+
+12. Verify newly pushed file is available on the git hub server.
+
+########################  Modify existing file and push ###############
+
+1. Modify existing file in the repository.
+
+2. check status with 'git status' command ->  file will show with red color in modified section.
+
+3. Add file with 'git add <file name>'.
+
+4. Check status with 'git status' command. ->  file will show with green color.
+
+5. commit file with 'git commit -m <msg>' command. -> commit operation is succesful
+
+6. push local to the server with 'git push' command.
+
+7. Check modified file on the server.
+
+########################## Git multi branch model #######################
+
+1.  Create new brach on the server/local machine.
+    -> git checkout -b <branch_name>
+
+2.  Check branch is create with 'git branch' command
+    # newly created branch will be visible in green color
+
+3. Add new file to repository directory and its status with 'git status'  command.
+
+4. Add file to git  and check its status 
+    -> git add <filename>   
+     -> git status  # file will show in green color
+
+5. commit file with command 'Git commit -m "msg"'
+
+6. push changes with given command. 
+    -> git push # regular
+    -> git push --set-upstream origin ram  # first time push with newly created branch locally.
+
+7. Raise pull request from feature to main banch from server and merge.
+
+8. now update local main branch with given command 
+    -> git checkout main
+    -> git pull
+
+9. All changes from feature brach will be availabe in main branch locally.
+
+
+
+
+    
+
+
+
+  

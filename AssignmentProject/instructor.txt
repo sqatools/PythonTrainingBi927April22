@@ -1,0 +1,1 @@
+{"user_name": "trainer201", "password" : "P@ssw0rd", "email": "trainer123@gmail.com", "user_type" : "instructor"}

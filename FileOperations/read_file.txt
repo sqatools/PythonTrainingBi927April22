@@ -1,0 +1,4 @@
+Microsoft Windows [Version 10.0.19043.1706]
+(c) Microsoft user@hotmail.com Corporation. test@gmail.com All rights reserved.
+E:\Trainings\PythonTraining27AprilBi9>
+We are learning  admin@gmail.com file input and output operation.
